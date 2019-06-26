@@ -1396,7 +1396,7 @@ body {
 .cid-rkNl5yYSTx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/home-6-1800x845.jpg");
+  background-image: url("../../../assets/images/banner-test-12-1734x768.jpg");
 }
 .cid-rkNl5yYSTx .icons-media-container {
   display: flex;
@@ -1422,11 +1422,26 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-rkNl5yYSTx H1 {
-  text-align: center;
+  text-align: left;
+}
+.cid-rkNl5yYSTx .mbr-text,
+.cid-rkNl5yYSTx .mbr-section-btn {
+  text-align: left;
+}
+.cid-ruwSi5vGWo {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #55b4d4;
+}
+.cid-ruwSi5vGWo .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-ruwSi5vGWo .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rlmB9djbii {
-  padding-top: 75px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rlmB9djbii .mbr-text,
@@ -1435,12 +1450,12 @@ body {
 }
 .cid-rkNlGfXV9l .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #59665f;
   transition: none;
   min-height: 77px;
 }
 .cid-rkNlGfXV9l .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #59665f;
 }
 .cid-rkNlGfXV9l a {
   font-style: normal;
@@ -1531,7 +1546,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rkNlGfXV9l .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #59665f;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1826,7 +1841,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rkNn8Nm7PU {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -2528,16 +2543,18 @@ body {
 .cid-rlmdgrwRGG {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/d-1698x895.jpg");
+  background-image: url("../../../assets/images/banner-test-1-1800x738.jpg");
 }
 .cid-rlmdgrwRGG P {
   color: #767676;
 }
 .cid-rlmdgrwRGG H1 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rlmdgrwRGG H3 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rkNXkvsCV7 {
   padding-top: 60px;
@@ -2968,16 +2985,18 @@ body {
 .cid-rlmbXa5aQG {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/a2-1691x899.jpg");
+  background-image: url("../../../assets/images/banner-test-13-1800x757.jpg");
 }
 .cid-rlmbXa5aQG P {
   color: #767676;
 }
 .cid-rlmbXa5aQG H1 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rlmbXa5aQG H3 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rl476xm1Qc {
   padding-top: 60px;
